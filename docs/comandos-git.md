@@ -1,6 +1,5 @@
-# Comandos GitHub
+# Comandos 【entity-GitHub¦canonical_name=GitHub】
 
-Referencia del repositorio local con el repositorio remoto (GITHUB)
-
+## Inicializar el repositorio local
 ```bash
-git remote add origin https://github.com/shirleyreyes110298-droid/repositorio-nestjs-angular.git
+git init
